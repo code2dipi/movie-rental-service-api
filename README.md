@@ -3,12 +3,12 @@
 
  For consuming services, POSTMAN can be used as a client.  
 
-# bash:
+# bash :
 - npm install
 - npm run
 - npm test
 
-# Endpoints
+# Endpoints:
 - http://localhost:3000/api/users 
 - http://localhost:3000/api/customers
 - http://localhost:3000/api/generes
