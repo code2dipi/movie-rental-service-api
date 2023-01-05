@@ -3,7 +3,7 @@
 
  For consuming services, POSTMAN can be used as a client.  
 
-#bash:
+# bash:
 - npm install
 - npm run
 - npm test
